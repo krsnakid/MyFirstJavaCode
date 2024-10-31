@@ -7,6 +7,7 @@ public class FirstCode {
         System.out.println("I'm doing this from terminal.");
         System.out.println("looking for branch");
         System.out.println("I do not know what is happening.");
+        System.out.println("Happy Diwali<3");
         System.out.println("No Pollution");
     }
 }
