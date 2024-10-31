@@ -9,5 +9,6 @@ public class FirstCode {
         System.out.println("I do not know what is happening.");
         System.out.println("Happy Diwali<3");
         System.out.println("No Pollution");
+        System.out.println("Some diff");
     }
 }
