@@ -10,5 +10,6 @@ public class FirstCode {
         System.out.println("Happy Diwali<3");
         System.out.println("No Pollution");
         System.out.println("lets inspect");
+        System.out.println("Some diff");
     }
 }
